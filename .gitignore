@@ -1,0 +1,10 @@
+zig-cache/
+zig-out/
+.DS_Store
+*.img
+*.log
+.vscode/
+.idea/
+*.swp
+*.o
+*.a
